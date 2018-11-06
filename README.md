@@ -1,7 +1,7 @@
 # Nástroje pro PHP
 * [formulář](utils/form.php) demonstrující generování tokenu a celkové URL
 * vzor aplikace používající data a přihlášení z Bakalářů
-* automatické přihlášení do Bakalářů
+* [automatické přihlášení](utils/redirect.php) do Bakalářů
 * výpis dnešního a zítřejšího rozvrhu
 * získávání průměrů známek (škola má tuto funkci deaktivovanou)
 * [screen scraping adresy studenta](utils/fetch.php) &ndash; slouží pouze k demonstraci možností
