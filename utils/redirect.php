@@ -5,7 +5,7 @@
 		<title>Automatické přihlášení</title>
 	</head>
 	<body style="display:table-cell;vertical-align:middle;height:100vh;width:100vw;margin:0;text-align:center">
-		<?php
+	<?php
             $url = "https://www.example.com"; // TODO: url Bakalářů
             // parametr user = uživatelské jméno
             // parametr pwd = heslo
