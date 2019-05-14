@@ -5,6 +5,7 @@
 * výpis dnešního a zítřejšího rozvrhu
 * získávání průměrů známek (škola má tuto funkci deaktivovanou)
 * [screen scraping adresy studenta](utils/fetch.php) &ndash; slouží pouze k demonstraci možností
+
 Nástroje budu postupně přidávat, na položky v seznamu půjde kliknout.
 
 # Dependencies
