@@ -7,6 +7,3 @@
 * [screen scraping adresy studenta](utils/fetch.php) &ndash; slouží pouze k demonstraci možností
 
 Nástroje budu postupně přidávat, na položky v seznamu půjde kliknout.
-
-# Dependencies
-- php-xml
