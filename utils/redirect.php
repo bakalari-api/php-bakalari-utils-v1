@@ -9,7 +9,7 @@
             $url = "https://www.example.com"; // TODO: url Bakalářů
             // parametr user = uživatelské jméno
             // parametr pwd = heslo
-            // parametr u = url název stránky, na kterou chceme uživatele dostat
+            // parametr u = url adresa stránky, na kterou chceme uživatele dostat
 
             $u = (!empty($_GET["u"]))?$_GET["u"]:"dash";
             if (!empty($_GET["user"]) && !empty($_GET["pwd"])) {
