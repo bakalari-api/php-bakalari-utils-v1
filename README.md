@@ -6,4 +6,6 @@
 * získávání průměrů známek (škola má tuto funkci deaktivovanou)
 * [screen scraping adresy studenta](utils/fetch.php) &ndash; slouží pouze k demonstraci možností
 
-Nástroje budu postupně přidávat, na položky v seznamu půjde kliknout.
+~~Nástroje budu postupně přidávat, na položky v seznamu půjde kliknout.~~
+
+Vzhledem k přechodu Bakalářů na API v3 ztrácí tento repozitář smysl.
